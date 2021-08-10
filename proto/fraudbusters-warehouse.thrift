@@ -7,12 +7,12 @@ struct Query {
   2: optional map<string, string> params
 }
 
-struct RowMap {
+struct Row {
     1: map<string, string> values
 }
 
 struct Result {
-    1: list<RowMap> values
+    1: list<Row> values
 }
 
 
