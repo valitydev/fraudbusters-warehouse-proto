@@ -1,4 +1,4 @@
-namespace java com.rbkmoney.fraudbusters.warehouse
+namespace java dev.vality.fraudbusters.warehouse
 namespace erlang fraudbusters_warehouse
 
 
